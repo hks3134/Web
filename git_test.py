@@ -1,1 +1,7 @@
 print("git test")
+print("ang gi mo ggi")
+print("ang gi moa giz")
+print("ya mae tte")
+print("git test")
+print("git test")
+print("git test")
